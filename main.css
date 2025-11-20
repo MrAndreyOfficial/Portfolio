@@ -26,6 +26,7 @@ body {
 
 .project {
     min-width: 200px;
+    text-align: center;
     background-color: #2a2828;
     padding: 20px 100px;
     border-radius: 20px;
