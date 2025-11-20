@@ -1,0 +1,36 @@
+body {
+    background-color: #201f1f;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header-content {
+    text-align: right;
+    padding: 20px 0;
+}
+
+.link {
+    font-size: 21px;
+    color: white;
+}
+
+#projects {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.project {
+    min-width: 200px;
+    background-color: #2a2828;
+    padding: 20px 100px;
+    border-radius: 20px;
+}
+
+.project .link {
+    font-size: 42px;
+}
